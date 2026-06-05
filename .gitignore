@@ -1,0 +1,39 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+
+# OS / Windows / WSL
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+*.env
+application-secret.properties
+application-prod.properties
+
+# Local database files
+*.db
+*.mv.db
+*.trace.db
+
+# Temp
+tmp/
+temp/
