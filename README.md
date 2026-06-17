@@ -2,7 +2,7 @@
 
 Backend API for a goal-tracking application built with Quarkus.
 
-The application supports individual goals and personal challenges. Goals track progress independently, while challenges group one or more goals under shared dates and completion rules.
+The application supports individual goals and personal challenges.
 
 ## Tech Stack
 
